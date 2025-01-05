@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "libs/*",
+]
+
+dependencies = { rand = "0.9" }
